@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img alt="LOGO" src="https://raw.githubusercontent.com/FergxXxianz/ytb/refs/heads/main/public/img/logo.png" width="420" height="auto" />
+<img alt="LOGO" src="https://raw.githubusercontent.com/FergxXxianz/ytb/refs/heads/main/public/img/logo.svg" width="420" height="auto" />
 </div>
 <br>
 
